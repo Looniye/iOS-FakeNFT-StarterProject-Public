@@ -5,7 +5,7 @@
 
 <img src="https://github.com/Looniye/iOS-FakeNFT-StarterProject-Public/assets/40362717/c458d586-5632-4d1d-9a21-7a7f0254d3d4" width="300">
 <img src="https://github.com/Looniye/iOS-FakeNFT-StarterProject-Public/assets/40362717/243d33b5-89e0-4370-8b2e-1e56d7dd64db" width="300">
-<img src="https://github.com/Looniye/iOS-FakeNFT-StarterProject-Public/assets/40362717/4a0485b7-1012-4ad4-adee-a868955ebb9b)" width="300">
+<img src="https://github.com/Looniye/iOS-FakeNFT-StarterProject-Public/assets/40362717/4a0485b7-1012-4ad4-adee-a868955ebb9b" width="300">
 <img src="https://github.com/Looniye/iOS-FakeNFT-StarterProject-Public/assets/40362717/cc534bb8-b681-42da-bcb3-e9b6603ef4fa" width="300">
 
 # Назначение и цели приложения
