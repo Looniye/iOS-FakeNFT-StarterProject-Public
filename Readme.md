@@ -1,8 +1,9 @@
 # ТЗ мобильного приложения FakeNFT
 
-# Ссылки
+# Скрины
+<img src="https://github.com/Looniye/iOS-FakeNFT-StarterProject-Public/assets/40362717/3acf854c-1a8e-4407-9a8d-6d7d74942209" width="300">
+<img src="https://github.com/Looniye/iOS-FakeNFT-StarterProject-Public/assets/40362717/1604ad00-31ed-4363-8f5c-387b0ed430d5" width="300">
 
-[Дизайн Figma](https://www.figma.com/file/k1LcgXHGTHIeiCv4XuPbND/FakeNFT-(YP)?node-id=96-5542&t=YdNbOI8EcqdYmDeg-0)
 
 # Назначение и цели приложения
 
